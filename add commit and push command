@@ -17,6 +17,6 @@ git commit -m "discription of file" = (m=option)
 
 whene we have to push newly file orr added linw to remotely sever's repo
 
-git push main origin 
+git push origin main 
 
 
